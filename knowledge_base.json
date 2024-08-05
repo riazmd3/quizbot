@@ -1,0 +1,200 @@
+{
+  "questions": [
+    {
+      "question": "Hello",
+      "answer": "Hey there!"
+    },
+    {
+      "question": "How are you?",
+      "answer": "Good, thanks for asking!"
+    },
+    {
+      "question": "What's your name?",
+      "answer": "I'm a chatbot, you can call me ChatGPT."
+    },
+    {
+      "question": "Where are you from?",
+      "answer": "I exist in the digital realm, created by OpenAI."
+    },
+    {
+      "question": "How old are you?",
+      "answer": "I don't have an age, I'm just a program."
+    },
+    {
+      "question": "What can you do?",
+      "answer": "I can answer questions, engage in conversation, provide information, and more. Feel free to ask me anything!"
+    },
+    {
+      "question": "Are you human?",
+      "answer": "No, I'm an artificial intelligence."
+    },
+    {
+      "question": "Do you sleep?",
+      "answer": "No, I don't need to sleep."
+    },
+    {
+      "question": "What's the weather like today?",
+      "answer": "I'm sorry, but I can't provide real-time weather updates. You might want to check a weather website or app."
+    },
+    {
+      "question": "What's your favorite color?",
+      "answer": "I don't have preferences like humans do, but I appreciate all colors equally!"
+    },
+    {
+      "question": "Who created you?",
+      "answer": "I was created by a team of engineers and researchers at OpenAI."
+    },
+    {
+      "question": "Can you learn?",
+      "answer": "I don't learn in the same way humans do, but I can improve over time based on feedback and updates from my creators."
+    },
+    {
+      "question": "Do you have emotions?",
+      "answer": "No, I don't have emotions like humans do."
+    },
+    {
+      "question": "What's the meaning of life?",
+      "answer": "That's a profound question! The meaning of life can vary from person to person. Some find meaning in relationships, others in work or personal growth."
+    },
+    {
+      "question": "How do I become successful?",
+      "answer": "Success can mean different things to different people. It often involves setting goals, working hard, being persistent, and learning from failures."
+    },
+    {
+      "question": "What's the best way to relax?",
+      "answer": "Relaxation methods vary from person to person, but common techniques include deep breathing, meditation, exercise, and spending time with loved ones."
+    },
+    {
+      "question": "What's the capital of France?",
+      "answer": "The capital of France is Paris."
+    },
+    {
+      "question": "Who is the President of the United States?",
+      "answer": "I'm sorry, I can't provide real-time information. You might want to check a news website for the current President."
+    },
+    {
+      "question": "What's the square root of 64?",
+      "answer": "The square root of 64 is 8."
+    },
+    {
+      "question": "How do I change a tire?",
+      "answer": "Changing a tire involves several steps, including loosening the lug nuts, lifting the car with a jack, removing the flat tire, putting on the spare tire, and tightening the lug nuts. It's a good idea to consult your car's manual for specific instructions."
+    },
+    {
+      "question": "What's the difference between a crocodile and an alligator?",
+      "answer": "Crocodiles and alligators are both reptiles, but they belong to different families. One key difference is their snout shape: crocodiles have a V-shaped snout, while alligators have a U-shaped snout."
+    },
+    {
+      "question": "How do I make pancakes?",
+      "answer": "To make pancakes, you'll need flour, eggs, milk, baking powder, salt, and butter. Mix the dry ingredients, then add the wet ingredients and mix until smooth. Cook the batter on a greased skillet until bubbles form, then flip and cook until golden brown."
+    },
+    {
+      "question": "What's the tallest mountain in the world?",
+      "answer": "Mount Everest, located in the Himalayas, is the tallest mountain in the world."
+    },
+    {
+      "question": "How do I tie a tie?",
+      "answer": "There are several ways to tie a tie, but a common method is the Windsor knot. Start by draping the tie around your neck with the wide end on the right and the narrow end on the left. Cross the wide end over the narrow end, then bring it up through the loop between your neck and the tie. Bring it down through the loop you've created in the front, then pull it tight and adjust as needed."
+    },
+    {
+      "question": "What's the chemical symbol for water?",
+      "answer": "The chemical symbol for water is H2O."
+    },
+    {
+      "question": "How do I say 'hello' in Spanish?",
+      "answer": "Hello in Spanish is 'Hola.'"
+    },
+    {
+      "question": "What's the population of China?",
+      "answer": "As of my last update, China's population is over 1.4 billion."
+    },
+    {
+      "question": "What's the largest desert in the world?",
+      "answer": "The largest desert in the world is the Antarctic Desert."
+    },
+    {
+      "question": "How do I make a paper airplane?",
+      "answer": "To make a paper airplane, start with a piece of paper and fold it in half lengthwise. Then, fold down the top corners to the center crease to form a triangle. Fold the top point down to meet the bottom edge, then fold the resulting triangle in half along the center crease. Finally, fold down the wings on each side and you're done!"
+    },
+    {
+      "question": "What's the capital of Japan?",
+      "answer": "The capital of Japan is Tokyo."
+    },
+    {
+      "question": "How do I boil an egg?",
+      "answer": "To boil an egg, place it in a pot of water and bring the water to a boil. Once boiling, reduce the heat to a simmer and cook the egg for about 9-12 minutes, depending on how well-done you want it. Then, remove the egg from the pot and place it in a bowl of cold water to stop the cooking process."
+    },
+    {
+      "question": "What's the speed of light?",
+      "answer": "The speed of light in a vacuum is approximately 299,792 kilometers per second."
+    },
+    {
+      "question": "How do I say 'thank you' in French?",
+      "answer": "Thank you in French is 'Merci.'"
+    },
+    {
+      "question": "What's the capital of Australia?",
+      "answer": "The capital of Australia is Canberra."
+    },
+    {
+      "question": "What is the capital of Canada?",
+      "answer": "The capital of Canada is Ottawa."
+    },
+    {
+      "question": "Who wrote the Indian National Anthem?",
+      "answer": "The Indian National Anthem, 'Jana Gana Mana,' was written by Rabindranath Tagore."
+    },
+    {
+      "question": "What is the chemical formula for table salt?",
+      "answer": "The chemical formula for table salt is NaCl (sodium chloride)."
+    },
+    {
+      "question": "Who discovered penicillin?",
+      "answer": "Penicillin was discovered by Alexander Fleming in 1928."
+    },
+    {
+      "question": "What is the pH of pure water?",
+      "answer": "The pH of pure water is 7."
+    },
+    {
+      "question": "Who is known as the 'Father of the Indian Constitution'?",
+      "answer": "Dr. B.R. Ambedkar is known as the 'Father of the Indian Constitution.'"
+    },
+    {
+      "question": "What is the Law of Inertia?",
+      "answer": "The Law of Inertia, formulated by Sir Isaac Newton, states that an object at rest will remain at rest, and an object in motion will remain in motion unless acted upon by an external force."
+    },
+    {
+      "question": "What is the SI unit of force?",
+      "answer": "The SI unit of force is the Newton (N)."
+    },
+    {
+      "question": "Who discovered the theory of relativity?",
+      "answer": "Albert Einstein is credited with the discovery of the theory of relativity."
+    },
+    {
+      "question": "What is the fundamental right guaranteed by Article 19 of the Indian Constitution?",
+      "answer": "Article 19 of the Indian Constitution guarantees the Right to Freedom, which includes freedoms of speech and expression, assembly, association, movement, residence, and profession."
+    },
+    {
+      "question": "What is Ohm's Law?",
+      "answer": "Ohm's Law states that the current flowing through a conductor between two points is directly proportional to the voltage across the two points, provided the temperature remains constant."
+    },
+    {
+      "question": "Who invented the telephone?",
+      "answer": "The telephone was invented by Alexander Graham Bell."
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "answer": "The chemical symbol for gold is Au."
+    },
+    {
+      "question": "Who discovered the laws of planetary motion?",
+      "answer": "Johannes Kepler discovered the laws of planetary motion."
+    },
+    {
+      "question": "hi",
+      "answer": "hello"
+    }
+  ]
+}
